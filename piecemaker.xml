@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Contents>
+    <Image Source="contents/RC2.jpg" Title="Design One">
+		<Text>&lt;h1&gt;welcome to our website.
+			The The project Entitle “MAIL CLIENT” deals with identifying the clients to send and receive mail with the same login. This utility will allow multiple clients to login under the same login page and still have personalized mail information, enabling them to send and receive mails. &lt;/p&gt;</Text>
+		<Hyperlink URL="http://www.gmail.com/page/2" Target="_blank" />
+	</Image>		
+    <Image Source="contents/RE.jpg" Title="Design Two">
+      <Text>&lt;h1&gt;welome to Mail Arhiever
+	  Each user willing to avail the services offered by the mail server application should exist as a user before he can send or receive mails. This is made possible by prompting each user to enter his user-id and password before he can send or view his mails.&lt;/p&gt;</Text>
+      <Hyperlink URL="http://www.templatemo.com/page/2" Target="_blank" />
+    </Image>
+	<Image Source="contents/SC2.jpg" Title="Design Three">
+      <Text>&lt;h1&gt;welcome to oue website
+		  E-mail is one of the most common and reliable methods of communication for both personal and business purposes. It also plays an important role in each and every Web site.&lt;/p&gt;</Text>
+      <Hyperlink URL="http://www.templatemo.com/page/3" Target="_blank" />
+    </Image>
+	<Image Source="contents/UA.jpg" Title="Design Three">
+      <Text>&lt;h1&gt;Welcome to Mail Archiever Project
+		  A message has to be composed in compose box. This message is stored in inbox . directory of receiver. This file should be combination of the sender’s user-id and sub. The file transmitted is moved from sender compose to receiver inbox&lt;/p&gt;</Text>
+      <Hyperlink URL="http://www.templatemo.com/page/3" Target="_blank" />
+    </Image>
+	<Image Source="contents/ST2.jpg" Title="Design Four">
+		<Text>&lt;h1&gt;Welcome to Mail Archiever project
+			We can send files through attachments. In this we attach the files to the mail by browsing option. From desktop or any drive we can select files and we will attach them to the mail that we want to send presently and then we send them to the receiver. &lt;/h1&gt;&lt;p&gt;</Text>           
+      <Hyperlink URL="http://www.templatemo.com/page/4" Target="_blank" />
+    </Image>
+  </Contents>
+  <Settings ImageWidth="960" ImageHeight="360" LoaderColor="0x333333" InnerSideColor="0x222222" SideShadowAlpha="0.8" DropShadowAlpha="0.7" DropShadowDistance="25" DropShadowScale="0.95" DropShadowBlurX="40" DropShadowBlurY="4" MenuDistanceX="20" MenuDistanceY="50" MenuColor1="0x999999" MenuColor2="0x333333" MenuColor3="0xFFFFFF" ControlSize="100" ControlDistance="20" ControlColor1="0x222222" ControlColor2="0xFFFFFF" ControlAlpha="0.8" ControlAlphaOver="0.95" ControlsX="450" ControlsY="280&#xD;&#xA;" ControlsAlign="center" TooltipHeight="30" TooltipColor="0x222222" TooltipTextY="5" TooltipTextStyle="P-Italic" TooltipTextColor="0xFFFFFF" TooltipMarginLeft="5" TooltipMarginRight="7" TooltipTextSharpness="50" TooltipTextThickness="-100" InfoWidth="400" InfoBackground="0xFFFFFF" InfoBackgroundAlpha="0.95" InfoMargin="15" InfoSharpness="0" InfoThickness="0" Autoplay="4" FieldOfView="45"></Settings>
+  <Transitions>
+    <Transition Pieces="7" Time="1.4" Transition="easeInOutBack" Delay="0.12" DepthOffset="250" CubeDistance="30"></Transition>
+    <Transition Pieces="11" Time="1.2" Transition="easeInOutSine" Delay="0.08" DepthOffset="500" CubeDistance="15"></Transition>
+    <Transition Pieces="5" Time="1.5" Transition="easeInOutElastic" Delay="0.15" DepthOffset="350" CubeDistance="40"></Transition>
+    <Transition Pieces="9" Time="1.3" Transition="easeInOutQuart" Delay="0.1" DepthOffset="450" CubeDistance="20"></Transition>
+  </Transitions>
+</Piecemaker>
